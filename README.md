@@ -4,9 +4,9 @@ Repositori ini berisi hasil praktikum dan rangkuman materi **Pekan 2** mata kuli
 
 | | |
 |---|---|
-| **Nama** | _Isi nama Anda_ |
-| **NIM** | _Isi NIM Anda_ |
-| **Program Studi** | _Isi program studi Anda_ |
+| **Nama** | _ALVIN ISATONI_ |
+| **NIM** | _102042500124_ |
+| **Program Studi** | _SISTEM INFORMASI_ |
 
 ---
 
